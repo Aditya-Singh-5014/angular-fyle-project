@@ -1,0 +1,2 @@
+import './polyfills.server.mjs';
+import{a as e,b as r,c as i,d as n,e as p,j as m,m as a,o as f,p as s,s as c,y as l}from"./chunk-LFG2YWWT.mjs";var d=(()=>{class o{title="angular-fyle-project";static \u0275fac=function(t){return new(t||o)};static \u0275cmp=e({type:o,selectors:[["app-root"]],standalone:!0,features:[p],decls:2,vars:0,template:function(t,y){t&1&&(r(0,"h1"),n(1,"hi this is aditya singh fromm local to github"),i())}})}return o})();var u=[];var g={providers:[m({eventCoalescing:!0}),l(u),s()]};var x={providers:[c()]},v=a(g,x);var h=()=>f(d,v),q=h;export{q as a};
